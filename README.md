@@ -6,7 +6,7 @@ https://github.com/ECE444-2022Fall/project-1-web-application-design-education-pa
 
 https://github.com/ECE444-2022Fall/project-1-web-application-design-education-pathways-group-16-all-stars/pull/25
 
-###Pros and Cons of TD
+**Pros and Cons of TD**
 
 Test Driven Development (TDD) is a programming practice that instructs developers to write new code only if an automated test has failed.
 Although it has many advantageous and imperative impacts on the development on a project, there also some downsides attributed to TDD. 
